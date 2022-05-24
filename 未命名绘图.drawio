@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-24T02:13:57.702Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="NtQIoA-Fw2PvWejcHWub" version="17.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-24T03:02:25.228Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="eh1LCr8B4RNeHpiLZkFn" version="17.0.0" type="github">
   <diagram id="kIvYhlrTY7oGlKLrpEr3" name="spring容器启动过程">
     <mxGraphModel dx="1422" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -34,7 +34,7 @@
         <mxCell id="ljPQky6ANAjZu1qQND6i-8" value="进行扫描" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="920" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ljPQky6ANAjZu1qQND6i-10" value="扫描就是在BeanFactory后置&lt;br&gt;处理器过程中进行的" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="ljPQky6ANAjZu1qQND6i-10" value="扫描就是在BeanFactory后置&lt;br&gt;处理器过程中进行的" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;rounded=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="930" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ljPQky6ANAjZu1qQND6i-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ljPQky6ANAjZu1qQND6i-11" target="ljPQky6ANAjZu1qQND6i-13">
